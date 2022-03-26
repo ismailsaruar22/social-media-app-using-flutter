@@ -17,11 +17,11 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyAFQ20d5H9PyBtdGRM8I0ZR9FRqj2JFL-Y",
-          appId: "1:654037083636:web:4898c77f8865837d54c5a1",
-          messagingSenderId: "654037083636",
-          projectId: "mentor-v4",
-          storageBucket: 'mentor-v4.appspot.com'),
+          apiKey: "",
+          appId: "",
+          messagingSenderId: "",
+          projectId: "",
+          storageBucket: ''),
     );
   } else {
     await Firebase.initializeApp();
