@@ -2,11 +2,11 @@
 
 It's a social media app called Mentor developed by using flutter and firebase.
 Features:
-        Newsfeed
-        Search
-        Add post
-        People
-        Profile
+        Newsfeed,
+        Search,
+        Add post,
+        People,
+        Profile,
         Chat Messanger
         
         
